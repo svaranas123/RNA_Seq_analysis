@@ -1,5 +1,4 @@
-### STAR_Index
-
+###STAR Index
 ```
 #$ -N STAR_index
 #$ -q short*
@@ -16,3 +15,4 @@ STAR --runMode genomeGenerate     \
     --sjdbGTFfile GCF_000001635.25_GRCm38.p5_genomic.gff   \
     --sjdbOverhang 101
 ```
+
