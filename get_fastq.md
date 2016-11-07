@@ -1,5 +1,5 @@
 ### Fastq files
-,,,,
+```
 #$ -N fastq_download
 #$ -cwd
 #$ -S /bin/bash
@@ -13,4 +13,4 @@ module load sra-tools/2.7.0
 
 for i in $(cat srr.txt)
 do 
-,,,,
+```
