@@ -1,0 +1,14 @@
+experiment_accession_ID,phenotype,stress
+SRR3663471,rTr_rep1,nave_resting
+SRR3663472,rTr_rep2,nave_resting
+SRR3663473,rTr_rep3,nave_resting
+SRR3663481,Naive_CD4_rep1,Naive
+SRR3663482,Naive_CD4_rep2,Naive
+SRR3663494,rTr_LCMV_rep1,Resting
+SRR3663495,rTr_LCMV_rep2,Resting
+SRR3663496,aTr_LCMV_rep1,Activated
+SRR3663497,aTr_LCMV_rep2,Activated
+SRR3663498,aTr_LCMV_rep3,Activated
+SRR3663499,mTr_LCMV_rep1,Memory
+SRR3663500,mTr_LCMV_rep2,Memory
+SRR3663501,mTr_LCMV_rep3,Memory
